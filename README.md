@@ -1,10 +1,10 @@
 ### 👋 Hello, there!
 
-Currently, I work as a <b>freelancer</b>. (so don't hesitate to DM me if you need my help 😎)
+Currently, I work as a <b>freelancer</b>.
 
 As a <b>Senior Full Stack</b> web developer, I have rich experience in Front-end and Back-end web development.
 
-Here are some services I can provide:
+Technical/Functional Skills:
 
 - 🔭 Front-end development using GatsbyJs, React/NextJs, Vue/NuxtJs, AngularJs
 - 🌱 Animation: GSAP, ThreeJS
