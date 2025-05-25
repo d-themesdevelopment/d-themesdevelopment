@@ -8,16 +8,13 @@ I'm well-versed in Headless CMS platforms such as Sanity, Strapi, Prismic, and S
 🧠 What I Bring to the Table:
 
 ☑️ Full ownership of full-stack projects from planning to delivery
-
 ☑️ Deep experience with Python, Django, and scalable backend design
-
 ☑️ Extensive team collaboration and technical leadership experience
-
 ☑️ Clear, consistent communication with both developers and stakeholders
-
 ☑️ Clean code, maintainable architecture, and business-driven decisions
 
 🚀 My Tech Stack Includes:
+
 🖥️ Frontend:
 JavaScript/TypeScript: React (Next.js, Gatsby, Redux, Hooks, Saga), Angular (RxJS), Vue (Nuxt, Vuex, Vuetify), Astro, jQuery, D3.js, Three.js, GSAP
 
