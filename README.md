@@ -6,10 +6,15 @@ I also have strong team leadership experience, having led cross-functional devel
 I'm well-versed in Headless CMS platforms such as Sanity, Strapi, Prismic, and Storyblok, enabling flexible content management and fast, modern websites.
 
 🧠 What I Bring to the Table:
+
 ☑️ Full ownership of full-stack projects from planning to delivery
+
 ☑️ Deep experience with Python, Django, and scalable backend design
+
 ☑️ Extensive team collaboration and technical leadership experience
+
 ☑️ Clear, consistent communication with both developers and stakeholders
+
 ☑️ Clean code, maintainable architecture, and business-driven decisions
 
 🚀 My Tech Stack Includes:
