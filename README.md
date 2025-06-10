@@ -1,6 +1,6 @@
 👋 Hello! I'm a Senior Full-Stack Developer | Mobile App Expert | Technical Lead
 
-Over the past 9+ years, I’ve helped startups, enterprises, and agencies bring their ideas to life with scalable, full-stack web and mobile applications. I specialize in Python (Django, Flask) on the backend and modern JavaScript/TypeScript frameworks like React, Angular, and Vue on the frontend.
+As a Senior Full-Stack Developer, I’ve helped startups, enterprises, and agencies bring their ideas to life with scalable, full-stack web and mobile applications. I specialize in Python (Django, Flask) on the backend and modern JavaScript/TypeScript frameworks like React, Angular, and Vue on the frontend.
 
 I bring deep expertise in React Native, Flutter, Swift (iOS), and Java (Android). I’ve successfully led and delivered apps for startups, enterprises, and fast-moving agencies — from prototype to production.
 
